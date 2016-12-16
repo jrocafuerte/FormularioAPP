@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tarea Activities</string>
+    <string name="form_username">Ingrese Nombre Completo</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripcion Contacto</string>
+    <string name="nombreboton">Siguiente</string>
+    <string name="botoneditar">Editar Datos</string>
+    <!-- Parametros de Envio -->
+    <string name="pnombre">Nombre</string>
+    <string name="ptelefono">Telefono</string>
+    <string name="pemail">Email</string>
+    <string name="pdia">Dia</string>
+    <string name="pmes">Mes</string>
+    <string name="panio">Anio</string>
+    <string name="pdescripcion">Descripcion</string>
+    <!-- Parametros de Envio -->
+
+</resources>
